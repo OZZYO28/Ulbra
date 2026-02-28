@@ -10,26 +10,32 @@ letras = [char for char in palavra]
 
 while True:
     cls("cls")
-    erros = 0
+    
+    if vidas == 0:
+        print("Fim do jogo, sem mais vidas restantes")
+        break
+
+    certas = 0
     for letra in letras:
         if letra in historicoS:
             print(letra, end=" ")
+            certas += 1
         else:
             print("_", end=" ")
-            erros += 1
-    if erros > 0:
+            certas = 0
+    if certas != len(letras):
         print(f"\n\nvocê tem {vidas} vidas restantes")
         print(f"Historico de letras: {historicoN}")
 
-        L = input("\nLetra:").strip().upper()
+        L = input("\nLetra:").strip().upper()[0]
         if L in historicoN or L in historicoS:
             input("Ja tentou esta letra")
         elif L in letras:
-            historicoS.append(L)
+            historicoS.append(L[0])
         else:
-            historicoN.append(L)
+            historicoN.append(L[0])
             vidas -= 1
     else:
+        print(f"\nfim do jogo, você teve {6 - vidas} erro até conseguir")
         break
-print(f"\nfim do jogo, você teve {6 - vidas} erro até conseguir")
     
