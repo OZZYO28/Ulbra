@@ -1,5 +1,5 @@
 Meu Repositório da Faculdade
-Repositório com projetos e exercícios acadêmicos em Python.
+Repositório com projetos e exercícios acadêmicos
 
 Conteúdo
 Exercícios de programação e algoritmos.
