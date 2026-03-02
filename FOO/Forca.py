@@ -45,6 +45,5 @@ while True:
             historicoN.append(L[0])
             vidas -= 1
     else:
-        print(f"\nfim do jogo, você teve {6 - vidas} erro até conseguir")
+        print(f"\nfim do jogo, você teve {6 - vidas} erro(s) até conseguir")
         break
-    
