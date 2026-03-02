@@ -1,4 +1,4 @@
-Meu Repositório da Faculdade
+Meu Repositório da Faculdade,
 Repositório com projetos e exercícios acadêmicos
 
 Conteúdo
