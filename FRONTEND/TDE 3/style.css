@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
+
+.imagemperfil {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 400px;
+    border-radius: 250px;
+    border: 3px solid whitesmoke;
+    box-shadow: 5px 10px 10px #111111
+}
+
+.FormatadoCentro {
+    text-decoration: underline;
+    margin: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.formatado{
+    display: contents;
+    text-decoration: none;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
