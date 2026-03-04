@@ -1,4 +1,8 @@
 ﻿using static System.Console;
+using static System.Convert;
+
+//imagino que não deve estar igual ao que vc espera sor, mas acho mais legal a gente conversar em aula pra te explicar oq eu fiz kkkkkkk;
+//gostaria de umas dicas também;
 
 namespace CalculadoraSimples {
     class Program {
@@ -9,13 +13,13 @@ namespace CalculadoraSimples {
             WriteLine("=== CALCULADORA SIMPLES ===");
 
             Write("\nDigite o primeiro número: ");
-            numero1 = Convert.ToDouble(ReadLine());
+            numero1 = ToDouble(ReadLine());
             
             Write("Digite a operação (+, -, *, /): ");
             operacao = ReadLine();
             
             Write("Digite o segundo número: ");
-            numero2 = Convert.ToDouble(ReadLine());
+            numero2 = ToDouble(ReadLine());
             
             if (operacao == "+") {
                 WriteLine("\nResultado: " + numero1 + " + " + numero2 + " = " + (numero1+numero2));
