@@ -7,6 +7,8 @@ using static System.Convert;
 namespace CalculadoraSimples {
     class Program {
         static void Main(string[] args) {
+            Clear();
+
             double numero1, numero2;
             string operacao;
             
