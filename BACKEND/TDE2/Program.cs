@@ -1,5 +1,4 @@
-﻿using static System.Console;
-using static System.Convert;
+﻿using static System.Console; using static System.Convert;
 
 Clear();
 
