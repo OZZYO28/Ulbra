@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde2\\tde2.csproj": {}
+    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\TDE2\\tde2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde2\\tde2.csproj": {
+    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\TDE2\\tde2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde2\\tde2.csproj",
+        "projectUniqueName": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\TDE2\\tde2.csproj",
         "projectName": "tde2",
-        "projectPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde2\\tde2.csproj",
+        "projectPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\TDE2\\tde2.csproj",
         "packagesPath": "C:\\Users\\guioz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde2\\obj\\",
+        "outputPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\TDE2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guioz\\AppData\\Roaming\\NuGet\\NuGet.Config"

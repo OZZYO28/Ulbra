@@ -7,7 +7,7 @@ Console.Clear();
 
 do
 {
-    Console.WriteLine("1 - Ver saldo\n2 - Depositar\n3 - sacar\n4 - Sair");
+    Console.WriteLine("1 - Ver saldo\n2 - Depositar\n3 - Sacar\n4 - Ultimo saque\n5 - Sair");
     op = Convert.ToInt32(Console.ReadLine());
 
     switch(op) {
@@ -49,8 +49,15 @@ do
             break;
         }
 
+        case 4:
+        Console.Clear();
+        Console.WriteLine($"Seu ultimo saque foi no valor de: {retirada}R$");
+        Console.ReadLine();
+        Console.Clear();
+        break;
+
         default:
-        Console.WriteLine("Opção invalida! Somente valores de 1 até 4");
+        Console.WriteLine("Opção invalida! Somente valores de 1 até 5");
         break;
     }
-} while (op != 4);
+} while (op != 5);
