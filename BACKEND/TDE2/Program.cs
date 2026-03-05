@@ -14,31 +14,24 @@ var operacao = ReadLine();
 Write("Digite o segundo número: ");
 double numero2 = ToDouble(ReadLine());
 
-if (operacao == "+")
-{
+if (operacao == "+") {
     WriteLine($"\nResultado: {numero1} + {numero2} = {numero1 + numero2}");
 }
-else if (operacao == "-")
-{
+else if (operacao == "-") {
     WriteLine($"\nResultado: {numero1} - {numero2} = {numero1 + numero2}");
 }
-else if (operacao == "*")
-{
+else if (operacao == "*") {
     WriteLine($"\nResultado: {numero1} * {numero2} = {numero1 + numero2}");
 }
-else if (operacao == "/")
-{
-    if (numero2 != 0)
-    {
+else if (operacao == "/") {
+    if (numero2 != 0) {
         WriteLine($"\nResultado: {numero1} / {numero2} = {numero1 + numero2}");
     }
-    else
-    {
+    else {
         WriteLine("\nERRO: Não é possível dividir por zero!");
     }
 }
-else
-{
+else {
     WriteLine("\nERRO: Operação inválida! Use +, -, * ou /");
 }
 WriteLine("\nPressione qualquer tecla para sair...");
