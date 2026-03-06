@@ -1,63 +1,53 @@
-﻿using System.Diagnostics.Contracts;
+﻿using static System.Convert; using static System.Console;
 
 int op = 0;
 decimal saldo = 1000.0m;
 decimal retirada = 0.0m;
-Console.Clear();
 
 do
 {
-    Console.WriteLine("1 - Ver saldo\n2 - Depositar\n3 - Sacar\n4 - Ultimo saque\n5 - Sair");
-    op = Convert.ToInt32(Console.ReadLine());
+    Clear();
+    WriteLine("1 - Ver saldo\n2 - Depositar\n3 - Sacar\n4 - Ultimo saque\n5 - Sair");
+    op = ReadKey(true).KeyChar - '0';
 
-    switch(op) {
-        
+    switch(op)
+    {
         case 1:
-        Console.Clear();
-        Console.WriteLine($"Seu saldo atual é de: {saldo}R$");
-        Console.ReadLine();
-        Console.Clear();
+        WriteLine($"Seu saldo atual é de: {saldo}R$");
+        ReadKey();
         break;
 
         case 2:
-        Console.Clear();
-        Console.WriteLine($"Seu saldo atual é de: {saldo}R$");
-        Console.Write("Quanto deseja adicionar? ");
-        saldo += Convert.ToDecimal(Console.ReadLine());
-        Console.WriteLine($"Seu saldo atual é de: {saldo}R$");
-        Console.ReadLine();
-        Console.Clear();
+        WriteLine($"Seu saldo atual é de: {saldo}R$");
+        Write("Quanto deseja adicionar? ");
+        saldo += ToDecimal(ReadLine());
+        WriteLine($"Seu saldo atual é de: {saldo}R$");
+        ReadKey();
         break;
     
         case 3:
-        Console.Clear();
-        Console.WriteLine($"Seu saldo atual é de: {saldo}R$");
-        Console.Write("Quanto deseja remover? ");
-        retirada = Convert.ToDecimal(Console.ReadLine());
-        if ((saldo - retirada) < 0) {
-
-            Console.WriteLine("Saldo insuficiente!");
-            Console.Clear();
+        WriteLine($"Seu saldo atual é de: {saldo}R$");
+        Write("Quanto deseja remover? ");
+        retirada = ToDecimal(ReadLine());
+        if ((saldo - retirada) < 0) 
+        {
+            WriteLine("Saldo insuficiente!");
             continue;
         }
-        else {
-
+        else 
+        {
             saldo -= retirada;
-            Console.WriteLine($"Seu saldo atual é de: {saldo}R$");
-            Console.ReadLine();
-            Console.Clear();
+            WriteLine($"Seu saldo atual é de: {saldo}R$");
+            ReadKey();
             break;
         }
-
         case 4:
-        Console.Clear();
-        Console.WriteLine($"Seu ultimo saque foi no valor de: {retirada}R$");
-        Console.ReadLine();
-        Console.Clear();
+        WriteLine($"Seu ultimo saque foi no valor de: {retirada}R$");
+        ReadKey();
         break;
 
-        default:
-        Console.WriteLine("Opção invalida! Somente valores de 1 até 5");
+        default: 
+        if (op is not 5) { WriteLine("Opção invalida! Somente valores de 1 até 5"); }
         break;
     }
 } while (op != 5);
