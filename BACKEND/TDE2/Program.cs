@@ -14,17 +14,17 @@ Write("Digite o segundo número: ");
 double numero2 = ToDouble(ReadLine());
 
 if (operacao == "+") {
-    WriteLine($"\nResultado: {numero1} + {numero2} = {numero1 + numero2}");
+    WriteLine($"\nResultado: {numero1} + {numero2} = {numero1+numero2}");
 }
 else if (operacao == "-") {
-    WriteLine($"\nResultado: {numero1} - {numero2} = {numero1 + numero2}");
+    WriteLine($"\nResultado: {numero1} - {numero2} = {numero1+numero2}");
 }
 else if (operacao == "*") {
-    WriteLine($"\nResultado: {numero1} * {numero2} = {numero1 + numero2}");
+    WriteLine($"\nResultado: {numero1} * {numero2} = {numero1+numero2}");
 }
 else if (operacao == "/") {
     if (numero2 != 0) {
-        WriteLine($"\nResultado: {numero1} / {numero2} = {numero1 + numero2}");
+        WriteLine($"\nResultado: {numero1} / {numero2} = {numero1+numero2}");
     }
     else {
         WriteLine("\nERRO: Não é possível dividir por zero!");
