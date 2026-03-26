@@ -1,0 +1,1 @@
+to enferrujado sor, confesso que n é a linguagem que mais me agrada, e n quis pesquisar muito pra n quebrar a "magica" de aprender junto do conteudo 

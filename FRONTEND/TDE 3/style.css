@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to right, #181818 30%, #252525 30%);
+    overflow: hidden;
+}
+.container {
+    display: flex;
+    height: 100vh;
+}
+.left {
+    flex: 0 0 30%;
+}
+
+.imagemperfil {
+    display: block;
+    margin: 50px auto;
+    width: 50%;
+    border-radius: 250px;
+    border: 3px solid blueviolet;
+    box-shadow: 5px 10px 10px #111111
+}
+.left hr {
+    width: 85%;
+}
+.right hr {    
+    border: none;
+    height: 2px;
+    background-color: blueviolet;
+    margin: 2% 0;
+}
+
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 200%;
+}
+h2 {
+    font-weight: 300;
+    font-size: larger;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    margin-bottom: 30px;
+    font-size: 130%;
+}
+.Educ h3, .Ling h3, .cont h3 {
+    margin: 10px 10px;
+    color: blueviolet;
+}
+.Educ h4, .Ling h4, .cont h4 {
+    display: inline-block;
+}
+.Educ h5, .Ling h5, .cont h5 {
+    margin-bottom: 10px;
+}
+a, a:visited, a:hover, a:active {
+    color: whitesmoke;
+}
+.Educ, .Ling, .cont {
+    color: whitesmoke;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 20px;
+    text-decoration: none
+}
+
+.Ling h4 {
+    width: 25%;
+}
+
+
+
+
+
+
+
+
+.right {
+    flex: 0 0 70%
+}
+.sobre, .hab {
+    border-radius: 15px;
+    padding: 3%;
+    margin: 5% 10%;
+    background-color: #181818;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: 22px;
+    text-align: center;
+}
+.sobre h1, .hab h1 {
+    margin-bottom: 2%;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sobre hr {
+    margin: 2% 0;
+}
+.sobre p {
+    margin: 0 10%;
+}
+.python p, .html p, .csharp p, .css p {
+    display: inline-block;
+    font-weight: bold;
+    width: 80px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.circulo0 {
+    height: 20px;
+    width: 20px;
+    background-color: #181818;
+    border: 3px solid blueviolet;
+    border-radius: 50%;
+    display: inline-block;
+}
+.circulo1 {
+    height: 20px;
+    width: 20px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.barra {
+    width: 50%;
+    height: 20px;
+    background-color: #252525;
+    border-radius: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.progresso80 {
+    width: 80%;
+    height: 100%;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.progresso30 {
+    width: 30%;
+    height: 100%;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.progresso100 {
+    width: 100%;
+    height: 100%;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+i {
+    display: inline-block;
+    font-size: x-large;
+    color: blueviolet;
+}
+.cont i {
+    display: inline-block;
+    font-size: large;
+    color: blueviolet;
+}
+.hab-1 {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.html, .css{
+    margin-right: 100px;
+}
+.softSkills {
+    text-align: center;
+    width: 80%; 
+    height: 100%;
+    margin: 4% auto;
+}
+
+.softL, .softR {
+    width: 40%;
+    vertical-align: top;
+    text-align: left;
+}
+
+.softL h2, .softR h2, .softL p, .softR p {
+    display: inline-block;
+}
+
+.softL h2, .softR h2 {
+    margin: 10px 10px;
+    color: blueviolet;
+}
