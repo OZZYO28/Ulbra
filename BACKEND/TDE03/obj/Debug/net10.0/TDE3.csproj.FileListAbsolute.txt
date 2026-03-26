@@ -13,3 +13,17 @@ C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE3\obj\Debug\net10.
 C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE3\obj\Debug\net10.0\TDE3.pdb
 C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE3\obj\Debug\net10.0\TDE3.genruntimeconfig.cache
 C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE3\obj\Debug\net10.0\ref\TDE3.dll
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\bin\Debug\net10.0\TDE3.exe
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\bin\Debug\net10.0\TDE3.deps.json
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\bin\Debug\net10.0\TDE3.runtimeconfig.json
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\bin\Debug\net10.0\TDE3.dll
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\bin\Debug\net10.0\TDE3.pdb
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.AssemblyInfoInputs.cache
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.AssemblyInfo.cs
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.csproj.CoreCompileInputs.cache
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.dll
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\refint\TDE3.dll
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.pdb
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\TDE3.genruntimeconfig.cache
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\backend\tde03\obj\Debug\net10.0\ref\TDE3.dll

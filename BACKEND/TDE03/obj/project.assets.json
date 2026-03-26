@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\ulbra\\backend\\TDE3\\TDE3.csproj",
+      "projectUniqueName": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde03\\TDE3.csproj",
       "projectName": "TDE3",
-      "projectPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\ulbra\\backend\\TDE3\\TDE3.csproj",
+      "projectPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde03\\TDE3.csproj",
       "packagesPath": "C:\\Users\\guioz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\ulbra\\backend\\TDE3\\obj\\",
+      "outputPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\backend\\tde03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guioz\\AppData\\Roaming\\NuGet\\NuGet.Config"
