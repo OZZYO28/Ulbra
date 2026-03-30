@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed5ca434-1ad4-45cf-afe5-f9fd49a05ef7" name="Changes" comment="" />
+    <list default="true" id="ed5ca434-1ad4-45cf-afe5-f9fd49a05ef7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EstudandoJava/Tarefa1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EstudandoJava/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,17 +47,18 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/guioz/OneDrive/Documentos/Programas/Ulbra/FOO",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Errors"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO\EstudandoJava\Tarefa1" />
+      <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO\EstudandoJava\src" />
       <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO\Perplexity\src" />
       <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO\Perplexity" />
       <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO\Perplexity\Tarefa1" />
-      <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO\TDE 5" />
     </key>
   </component>
   <component name="RunAnythingCache">

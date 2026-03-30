@@ -1,6 +1,6 @@
 package Tarefa2;
 
-public class Main
+public class Eu
 {
     public static void main(String[] args)
     {

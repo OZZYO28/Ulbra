@@ -2,19 +2,19 @@ package Tarefa4;
 
 import java.util.Scanner;
 
-public class Main
+public class ApresentacaoVoce
 {
     public static void main(String[] args)
     {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
         System.out.print("Qual o seu nome? ");
-        String nome = scanner.nextLine();
+        String nome = scan.nextLine();
 
         System.out.print("Quantos anos vc tem? ");
-        int idade = scanner.nextInt();
+        int idade = scan.nextInt();
 
-        scanner.close();
+        scan.close();
 
         System.out.println("Olá " + nome + ", que legal! Você tem " + idade + " anos!");
     }

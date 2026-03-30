@@ -1,6 +1,6 @@
 package Tarefa1;
 
-public class Main
+public class OlaMundo
 {
     public static void main(String[] args)
     {

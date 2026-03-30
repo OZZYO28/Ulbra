@@ -1,6 +1,6 @@
 package Tarefa3;
 
-public class Main
+public class Apresentacao
 {
     public static void main(String[] args)
     {
