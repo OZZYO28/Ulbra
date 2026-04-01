@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed5ca434-1ad4-45cf-afe5-f9fd49a05ef7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/Tarefa1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EstudandoJava/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/AulasExtra/ArrayNomes/ArrayNomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Tarefa1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Tarefa2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Tarefa3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Tarefa4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Tarefa5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Tarefa6/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Calculadora.executor": "Run",
+    "Application.Forca.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Tarefa2.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -49,7 +57,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,6 +73,29 @@
     <option name="myCommands">
       <command value="Main.java" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Calculadora" />
+      <module name="FOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Forca" />
+      <module name="FOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculadora" />
+        <item itemvalue="Application.Forca" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
