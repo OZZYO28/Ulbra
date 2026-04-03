@@ -1,0 +1,5 @@
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE06\obj\Debug\net10.0\TDE06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE06\obj\Debug\net10.0\TDE06.AssemblyInfoInputs.cache
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE06\obj\Debug\net10.0\TDE06.AssemblyInfo.cs
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE06\obj\Debug\net10.0\TDE06.csproj.CoreCompileInputs.cache
+C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\BACKEND\TDE06\obj\Debug\net10.0\TDE06.sourcelink.json
