@@ -25,7 +25,8 @@ void main()
         char letra = letraDigitadaStr.charAt(0);
 
         boolean acertouPeloMenosUma = false;
-        for (int i = 0; i < letras.length; i++) {
+        for (int i = 0; i < letras.length; i++)
+        {
             if (letras[i] == letra && palavraAtual[i] == '_')
             {
                 palavraAtual[i] = letra;
