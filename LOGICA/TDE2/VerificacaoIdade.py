@@ -1,4 +1,4 @@
-idade:int = int(input("digite sua idade: "))
+idade: int = int(input("digite sua idade: "))
 if (18 <= idade <= 70):
     print("obrigatorio")
 elif (idade >= 16):

@@ -1,12 +1,12 @@
-senha:str = str(input("Digite sua senha de quatro digitos: ")).lower().strip()
-if len(senha) != 4:
+senha: str = str(input("Digite sua senha de quatro digitos: ")).lower().strip()
+if (len(senha) != 4):
   print("Este valor nao tem quatro digitos")
   exit()
  
-v1 = int(senha[0])
-v2 = int(senha[1])
-v3 = int(senha[2])
-v4 = int(senha[3])
+v1: int = int(senha[0])
+v2: int = int(senha[1])
+v3: int = int(senha[2])
+v4: int = int(senha[3])
 iguais = 0
 soma = v1+v2+v3+v4
 maior = int(senha[0])

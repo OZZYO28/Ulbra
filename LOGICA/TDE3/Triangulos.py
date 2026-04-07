@@ -1,6 +1,6 @@
-seguimento1:float = float(input("Primeiro seguimento: "))
-seguimento2:float = float(input("Segundo seguimento: "))
-seguimento3:float = float(input("Terceiro seguimento: "))
+seguimento1: float = float(input("Primeiro seguimento: "))
+seguimento2: float = float(input("Segundo seguimento: "))
+seguimento3: float = float(input("Terceiro seguimento: "))
 
 if (seguimento1 < (seguimento2 + seguimento3) and seguimento2 < (seguimento1 + seguimento3) and seguimento3 < (seguimento1 + seguimento2)):
     print("Esses valores formam um triângulo")
