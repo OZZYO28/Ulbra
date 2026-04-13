@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed5ca434-1ad4-45cf-afe5-f9fd49a05ef7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/FOO/Forca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FOO/Forca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/AP1/Classes/Bateria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/AP1/Classes/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/AP1/ap1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +53,7 @@
     "Application.Tarefa2.Main.executor": "Run",
     "Application.TryCatch.executor": "Run",
     "Application.ValidaNomes.executor": "Run",
+    "Application.ap1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -82,7 +85,7 @@
       <command value="Main.java" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TDE5.ValidaNomes">
+  <component name="RunManager" selected="Application.ap1">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Calculadora" />
@@ -112,8 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ap1" />
+      <module name="FOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ap1" />
         <item itemvalue="Application.TDE5.ValidaNomes" />
         <item itemvalue="Application.ValidaNomes" />
         <item itemvalue="Application.Calculadora" />
