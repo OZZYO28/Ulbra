@@ -5,101 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed5ca434-1ad4-45cf-afe5-f9fd49a05ef7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE3/Forca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video01/print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video02/variaveis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video03/ConcatenacaoeInterpolacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video04/Tipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video05/Lacos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video06/Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video07/SwitCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video08/Inputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video09/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video10/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video10/Classes/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video11/Classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video11/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video11/Interfaces/EntityInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/TDE4/video12/Enum/Operacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/Estudo.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/refint/Estudo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Estudo/obj/Debug/net10.0/refint/Estudo.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/bin/Debug/net10.0/TDE1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/bin/Debug/net10.0/TDE1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/bin/Debug/net10.0/TDE1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/bin/Debug/net10.0/TDE1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/bin/Debug/net10.0/TDE1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/bin/Debug/net10.0/TDE1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/TDE1.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/ref/TDE1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/ref/TDE1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/refint/TDE1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/Debug/net10.0/refint/TDE1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/TDE1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/TDE1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE01/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/TDE01/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/TDE2.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/bin/Debug/net10.0/TDE2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/bin/Debug/net10.0/TDE2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/bin/Debug/net10.0/TDE2.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/bin/Debug/net10.0/tde2.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/bin/Debug/net10.0/tde2.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/apphost.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/ref/tde2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/refint/tde2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/Debug/net10.0/tde2.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/TDE2.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/TDE2.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/TDE2.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BACKEND/TDE02/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/AulasExtra/ArrayNomes/ArrayNomes.java" beforeDir="false" afterPath="$PROJECT_DIR$/AulasExtra/ArrayNomes/ArrayNomes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/TDE1/TDE 1 - Jogo da Forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/TDE1/Forca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/TDE3/TDE 3 - Python Orientado a Objetos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/TDE2/PythonOrientadoaObjetos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/TDE4/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/TDE4/video12/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa1/OlaMundo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa10/TipoIngresso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa11/ImpressãoIngressos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa12/Assentos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa13/Assentos2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa14/Assentos3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa15/Assentos4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa17/Assentos5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa2/Eu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa3/Apresentacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa4/ApresentacaoVoce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa5/Operacoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa6/MaiorValor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa7/SalaVip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa8/NotaFilme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstudandoJava/out/production/EstudandoJava/Tarefa9/Bilheteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FOO/Calculadora$Operacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FOO/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FOO/Calculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FOO/TDE1/TDE 1 - Jogo da Forca.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FOO/TDE3/TDE 3 - Python Orientado a Objetos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FRONTEND/Curriculo/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FRONTEND/Curriculo/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FRONTEND/TabelaBrasileirão/Goleadores.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FRONTEND/TabelaBrasileirão/Goleadores.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FRONTEND/TabelaBrasileirão/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FRONTEND/TabelaBrasileirão/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FOO/Forca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FOO/Forca.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,10 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "d73e00ff",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;d73e00ff&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3BTdqndgQ0zM4Tnr9X5uSgEzJc9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -141,8 +47,10 @@
     "Application.Main.executor": "Run",
     "Application.Operadores.executor": "Run",
     "Application.SwitCase.executor": "Run",
+    "Application.TDE5.ValidaNomes.executor": "Run",
     "Application.Tarefa2.Main.executor": "Run",
     "Application.TryCatch.executor": "Run",
+    "Application.ValidaNomes.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -154,7 +62,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -174,7 +82,7 @@
       <command value="Main.java" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TDE5.ValidaNomes">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Calculadora" />
@@ -183,8 +91,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TDE5.ValidaNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TDE5.ValidaNomes" />
+      <module name="FOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TDE5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidaNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ValidaNomes" />
+      <module name="FOO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TDE5.ValidaNomes" />
+        <item itemvalue="Application.ValidaNomes" />
         <item itemvalue="Application.Calculadora" />
       </list>
     </recent_temporary>
