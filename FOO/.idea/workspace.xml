@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed5ca434-1ad4-45cf-afe5-f9fd49a05ef7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/AP1/Classes/Bateria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/AP1/Classes/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/AP1/ap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/Debug/net10.0/TDE06.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/TDE06.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/TDE06.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Aulas/TDE06/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,36 +41,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.ArrayNomes.executor": "Run",
-    "Application.Calculadora.executor": "Run",
-    "Application.Classes.executor": "Run",
-    "Application.ConcatenacaoeInterpolacao.executor": "Run",
-    "Application.Forca.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Operadores.executor": "Run",
-    "Application.SwitCase.executor": "Run",
-    "Application.TDE5.ValidaNomes.executor": "Run",
-    "Application.Tarefa2.Main.executor": "Run",
-    "Application.TryCatch.executor": "Run",
-    "Application.ValidaNomes.executor": "Run",
-    "Application.ap1.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/guioz/OneDrive/Documentos/Programas/Ulbra/FOO",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ArrayNomes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatenacaoeInterpolacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Forca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TDE5.ValidaNomes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tarefa2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidaNomes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ap1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guioz/OneDrive/Documentos/Programas/Ulbra/FOO&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guioz\OneDrive\Documentos\Programas\Ulbra\FOO" />

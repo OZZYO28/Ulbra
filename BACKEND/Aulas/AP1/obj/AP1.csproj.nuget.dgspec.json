@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\TDE06\\TDE06.csproj": {}
+    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\ap1\\AP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\TDE06\\TDE06.csproj": {
+    "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\ap1\\AP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\TDE06\\TDE06.csproj",
-        "projectName": "TDE06",
-        "projectPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\TDE06\\TDE06.csproj",
+        "projectUniqueName": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\ap1\\AP1.csproj",
+        "projectName": "AP1",
+        "projectPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\ap1\\AP1.csproj",
         "packagesPath": "C:\\Users\\guioz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\TDE06\\obj\\",
+        "outputPath": "C:\\Users\\guioz\\OneDrive\\Documentos\\Programas\\Ulbra\\BACKEND\\aulas\\ap1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guioz\\AppData\\Roaming\\NuGet\\NuGet.Config"
