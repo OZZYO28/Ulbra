@@ -1,0 +1,35 @@
+CREATE TABLE Empregados
+(
+	Num INT NOT NULL PRIMARY KEY,
+	Salario DOUBLE NOT NULL,
+	Nome VARCHAR(30) NOT NULL
+)
+
+CREATE TABLE Departamentos
+(
+	Num INT NOT NULL PRIMARY KEY,
+	Nome VARCHAR(30) NOT NULL,
+	Gerente INT REFERENCES Empregados(Num)
+)
+
+CREATE TABLE Projetos
+(
+	Id INT NOT NULL PRIMARY KEY,
+	Nome VARCHAR(30) NOT NULL
+)
+
+CREATE TABLE Dependentes
+(
+	Id INT NOT NULL PRIMARY KEY,
+	Nome VARCHAR(30) NOT NULL,
+	Nascimento DATE NOT NULL,
+	Empregado INT REFERENCES Empregados(Num)
+)
+
+CREATE TABLE Participa_de
+(
+	Id INT NOT NULL PRIMARY KEY,
+	Hr_Trab INT NOT NULL,
+	Empregado INT REFERENCES Empregados(Num),
+	Projeto INT REFERENCES Projetos(Id)
+)
