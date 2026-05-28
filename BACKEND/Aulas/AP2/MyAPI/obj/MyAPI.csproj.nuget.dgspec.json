@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programas\\Ulbra\\backend\\aulas\\ap2\\myapi\\MyAPI.csproj": {}
+    "C:\\Programas\\Ulbra\\BACKEND\\Aulas\\AP2\\MyAPI\\MyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Programas\\Ulbra\\backend\\aulas\\ap2\\myapi\\MyAPI.csproj": {
+    "C:\\Programas\\Ulbra\\BACKEND\\Aulas\\AP2\\MyAPI\\MyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programas\\Ulbra\\backend\\aulas\\ap2\\myapi\\MyAPI.csproj",
+        "projectUniqueName": "C:\\Programas\\Ulbra\\BACKEND\\Aulas\\AP2\\MyAPI\\MyAPI.csproj",
         "projectName": "MyAPI",
-        "projectPath": "C:\\Programas\\Ulbra\\backend\\aulas\\ap2\\myapi\\MyAPI.csproj",
+        "projectPath": "C:\\Programas\\Ulbra\\BACKEND\\Aulas\\AP2\\MyAPI\\MyAPI.csproj",
         "packagesPath": "C:\\Users\\guioz\\.nuget\\packages\\",
-        "outputPath": "C:\\Programas\\Ulbra\\backend\\aulas\\ap2\\myapi\\obj\\",
+        "outputPath": "C:\\Programas\\Ulbra\\BACKEND\\Aulas\\AP2\\MyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guioz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOH/cPfpIXI=",
+  "dgSpecHash": "zCk8mlNMdiQ=",
   "success": true,
-  "projectFilePath": "C:\\Programas\\Ulbra\\backend\\aulas\\ap2\\myapi\\MyAPI.csproj",
+  "projectFilePath": "C:\\Programas\\Ulbra\\BACKEND\\Aulas\\AP2\\MyAPI\\MyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guioz\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.8\\microsoft.data.sqlite.core.10.0.8.nupkg.sha512",
     "C:\\Users\\guioz\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",

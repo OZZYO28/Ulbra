@@ -3,5 +3,5 @@ using Microsoft.EntityFrameworkCore;
 public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options){}
-    public DbSet<Jogo> jogos => Set<Jogo>();
+    public DbSet<Jogo> Jogos => Set<Jogo>();
 }
