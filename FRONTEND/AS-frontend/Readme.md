@@ -1,18 +1,21 @@
 # 1. Estrutura do Projeto
-
-```text
+```
 projeto/
+├── docs/
+    ├── Concluidas.png
+    ├── Pendentes.png
+    ├── Responsivo.png
+    └── Tela inicial.png
 ├── index.html
-└── js/
-    └── script.js
-
+└── script.js
+```
 index.html: Monta a tela do aplicativo (textos, botões e listas) e carrega o visual usando o Tailwind CSS.
 
 js/script.js: Guarda toda a lógica do sistema. É ele que cria os itens, move as tarefas e avisa se o usuário deixou o campo vazio.
 
 Como funciona: O aplicativo roda direto no navegador. O JavaScript pega o que o usuário digitou, cria os blocos das tarefas na tela, pinta com as cores certas (dependendo da prioridade) e organiza nas listas.
 
-2. Métodos e Conceitos de DOM Utilizados
+# 2. Métodos e Conceitos de DOM Utilizados
 Seleção de Elementos
 document.getElementById(): Encontra um elemento da página usando o seu id.
 
@@ -50,7 +53,7 @@ Exemplo: li.remove();
 
 Transferência entre listas: Para mover uma tarefa das Pendentes para as Concluídas, usamos o próprio appendChild. O navegador percebe que o item já existe na tela e apenas o muda de lugar automaticamente, sem precisar copiar ou criar um novo.
 
-3. Capturas de Tela
+# 3. Capturas de Tela
 Tela inicial:
 
 ![alt](./Tela%20inicial.png)
@@ -67,4 +70,6 @@ Funcionamento em tela menor (responsividade):
 
 ![alt](./Responsivo.png)
 
-4. Sem muitas dificuldades, somente a "sintaxe" do tailwind, algumas pesquisas externas e auxilio de IA para alguns blocos mais complexos
+# 4. Dificuldades
+
+Sem muitas dificuldades, somente a "sintaxe" do tailwind, algumas pesquisas externas e auxilio de IA para alguns blocos mais complexos
