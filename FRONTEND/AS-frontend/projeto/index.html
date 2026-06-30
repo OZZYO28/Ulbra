@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Tarefas - Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans min-h-screen">
+
+    <div class="max-w-5xl mx-auto px-4 py-8">
+        <header class="mb-8 border-b border-slate-200 pb-5 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+            <div>
+                <h1 class="text-3xl font-bold text-slate-950 tracking-tight">Dashboard de tarefas</h1>
+            </div>
+        </header>
+
+        <section class="bg-white p-6 rounded-2xl shadow-xs border border-slate-200 mb-8">
+            <h2 class="text-base font-semibold text-slate-900 mb-4">Cadastrar Nova Tarefa</h2>
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
+                <div class="md:col-span-2">
+                    <label for="tarefa" class="block text-xs font-bold text-slate-600 uppercase mb-1.5">Nome da Tarefa:</label>
+                    <input id="tarefa" type="text" placeholder="Informe a tarefa..." class="w-full bg-slate-50 border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:bg-white transition-all text-slate-900">
+                </div>
+                <div>
+                    <label for="pos" class="block text-xs font-bold text-slate-600 uppercase mb-1.5">Prioridade:</label>
+                    <select id="pos" class="w-full bg-slate-50 border border-slate-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:bg-white transition-all text-slate-900">
+                        <option value="baixa">Baixa</option>
+                        <option value="media">Média</option>
+                        <option value="alta">Alta</option>
+                    </select>
+                </div>
+                <div>
+                    <button onclick="adicionar()" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm px-4 py-2 rounded-lg transition-colors shadow-sm cursor-pointer h-[38px] flex items-center justify-center">
+                        Adicionar
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <main class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <section class="bg-white p-6 rounded-2xl shadow-xs border border-slate-200">
+                <div class="flex justify-between items-center mb-4 pb-3 border-b border-slate-100">
+                    <h2 class="text-lg font-bold text-slate-900">Tarefas Pendentes</h2>
+                    <span id="count-pendentes" class="bg-slate-100 text-slate-700 text-xs font-bold px-2.5 py-1 rounded-full border border-slate-200">0</span>
+                </div>
+                <ul id="pendentes" class="space-y-3"></ul>
+            </section>
+
+            <section class="bg-white p-6 rounded-2xl shadow-xs border border-slate-200">
+                <div class="flex justify-between items-center mb-4 pb-3 border-b border-slate-100">
+                    <h2 class="text-lg font-bold text-slate-900">Histórico de Concluídas</h2>
+                    <span id="count-concluidos" class="bg-slate-100 text-slate-700 text-xs font-bold px-2.5 py-1 rounded-full border border-slate-200">0</span>
+                </div>
+                <ul id="concluidos" class="space-y-3"></ul>
+            </section>
+        </main>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
